@@ -7,7 +7,7 @@ Card_Category VARCHAR(20),
 Annual_Fees INT,
 Activation_30_Days INT,
 Customer_Acq_Cost INT, 
-Week_Start_Date TEXT,
+Week_Start_Date DATE,
 Week_Num VARCHAR(20),
 Qtr	VARCHAR(10),
 current_year INT,
@@ -55,5 +55,6 @@ DELIMITER','
 CSV HEADER
 
 SELECT * FROM customer_details
+
 
 SELECT * FROM credit_details
