@@ -1,7 +1,7 @@
 # Project Title : Interactive Credit Card Analytics Dashboard
 ## Level: beginner
 ## Objective : 
-This project demonstrates SQL skills for retail sales analysis. It covers database setup, data cleaning, exploratory data analysis (EDA), and solving business queries using SQL. Designed for beginners, it builds a strong foundation in SQL for data analysis and decision-making
+This project develops a weekly credit card dashboard to track key metrics and trends. It provides real-time insights for monitoring operations, improving efficiency, and supporting stakeholders in data-driven decision-making through interactive visualizations.
 ## SQL
 
 ## Credit card Transaction Report Dashboard 
