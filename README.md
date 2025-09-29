@@ -3,7 +3,8 @@
 ## Objective : 
 This project develops a weekly credit card dashboard to track key metrics and trends. It provides real-time insights for monitoring operations, improving efficiency, and supporting stakeholders in data-driven decision-making through interactive visualizations.
 ## SQL
-<a href ="https://github.com/Pooja2005-a/PowerBI-Project/blob/main/CCDB-SQL.sql"></a>
+
+<a href ="https://github.com/Pooja2005-a/PowerBI-Project/blob/main/CCDB-SQL.sql">SQL Script </a>
 
 ## Credit card Transaction Report Dashboard 
 ![CCTransaction Dashboard](https://github.com/user-attachments/assets/a2ea360c-e3fd-4a93-9829-a71c4ba26cb1)
